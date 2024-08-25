@@ -10,10 +10,30 @@ permalink: /psylvain_dloc/
         <div><img src="http://media.wbur.org/wp/2010/03/PSylvain300.jpg" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/AA00032523/00012/images/48" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00008/images/11" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00013/images/38" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>THE CARIBBEAN WRITER: Volcanic Songs. (1998). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00012/images/48" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00012/images/48"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>The Caribbean Writer: Army of Draculas. (1994). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00008/images/11" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00008/images/11"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>The Caribbean Writer: Crossroads. (1999). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00013/images/38" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00013/images/38"></iframe>
+                <br>
+                <br>
+        </div>
     </body> 
           </div>
   <!-- partial -->
