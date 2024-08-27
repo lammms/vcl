@@ -10,10 +10,30 @@ permalink: /rmaharaj_dloc/
         <div><img src="https://pbs.twimg.com/media/Dnim-AgXcAAz7De.jpg" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/AA00032523/00012/images/268" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00090268/00053/pdf" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00006/images/113" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“Rabindranath Maharaj, The Interloper.” - The Caribbean Writer Volume 12, Page 267 (Page 269 on site). (1988). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00012/images/268" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00012/images/268"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>“Bookshelf: Fatboy Fall Down” - Caribbean Beat Issue 53, Page 28 (Page 30 on pdf). (July/August 2020). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00090268/00053/pdf" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00090268/00053/pdf"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“The Occasional Sadhu” - The Caribbean Writer Volume 6, Page 112 (Page 114 on site). (1992). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00006/images/113" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00006/images/113"></iframe>
+                <br>
+                <br>
+        </div>
     </body> 
           </div>
   <!-- partial -->
