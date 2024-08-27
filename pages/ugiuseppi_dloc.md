@@ -10,9 +10,22 @@ permalink: /ugiuseppi_dloc/
         <div><img src="https://arimacirc.files.wordpress.com/2017/04/undine-crop-1-redo.jpg?w=217" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/AA00030383/00001/images/0" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00030486/00001/images/1" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“Out For Stars 1: An Anthology of Poetry For Caribbean Secondary Schools” - Page 1. (1975). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00030383/00001/images/0" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00030383/00001/images/0"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>“Backfire: A Collection of Short Stories From The Caribbean For Use in Secondary Schools” - Page 2. (1973). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00030486/00001/images/1" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00030486/00001/images/1"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
     </body> 
           </div>
   <!-- partial -->
