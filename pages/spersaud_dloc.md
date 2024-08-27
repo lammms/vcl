@@ -10,18 +10,82 @@ permalink: /spersaud_dloc/
         <div><img src="https://static.wixstatic.com/media/e95725_240642b370fa45c1a5ca13a024665414.jpg/v1/fill/w_336,h_445,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e95725_240642b370fa45c1a5ca13a024665414.jpg" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/UF00080046/00025/images/18" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00007/images/41" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00026/images/44" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00004/images/33" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00028/images/38" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00033/images/158" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00033/images/158" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00024/images/22" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00080046/00030/images/49" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00005/images/122" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00032523/00005/images/122" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“Rain Storm by Sasenarine Persaud” - Kyk-Over-Al Volume 22, Page 18 (Page 19 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00025/images/18" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00025/images/18"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>“Images of Father in The Cremating Heat by Sasenarine Persuad” - The Caribbean Writer Volume 7, Page 42. (1993). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00007/images/41" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00007/images/41"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“Visit by Sasenarine Persaud” - Kyk-Over-Al Volume 26, Page 43 (Page 45 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00026/images/44" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00026/images/44"></iframe>
+                <br>
+                <br>
+        </div>
+        <div class="col-md-6">
+            <p>“When The Land is Dry by Sasenarine Persuad” - The Caribbean Writer Volume 4, Page 32 (Page 34 on site). (1990). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00004/images/33" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00004/images/33"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“From Timber Party by Sasenarine Persuad” - Kyk-Over-Al Volume 28, Page 37 (Page 39 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00028/images/38" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00028/images/38"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>“Postcard to a Sister in South America by Sasenarine Persuad” - Kyk-Over-Al Volume 33, Page 155 (Page 159 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00033/images/158" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00033/images/158"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“My Mother Was a Splendid Teacher by Sasenarine Persuad” - Kyk-Over-Al Volume 21, Page 21 (Page 23 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00024/images/22" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00024/images/22"></iframe>
+                <br>
+                <br>
+        </div>
+        <div class="col-md-6">
+            <p>“His Father’s House by Sasenarine Persuad” - Kyk-Over-Al Volume 30, Page 48 (Page 50 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00030/images/49" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00030/images/49"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>“Book Reviews of Sasenarine Persaud” - The Caribbean Writer Volume 5, Page 121 (Page 123 on site). (1991). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00032523/00005/images/122" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00032523/00005/images/122"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>“A Prophet in His Time” - Kyk-Over-Al Volume 29, Page 34 (Page 35 on site). (2000). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00080046/00029/images/34" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/UF00080046/00029/images/34"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
     </body> 
           </div>
   <!-- partial -->
